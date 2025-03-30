@@ -7,10 +7,6 @@
 
 **A comprehensive guide to Artificial Intelligence, Neural Networks, and Large Language Models**
 
-[![Made With Love](https://img.shields.io/badge/Made%20with-❤-red.svg)](https://github.com/) 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat)](https://github.com/)
-
 </div>
 
 ## 📚 Table of Contents
