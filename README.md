@@ -2,8 +2,7 @@
 # 🧠 Understanding AI Technologies
 
 <div align="center">
-  
-![AI Banner](https://img.shields.io/badge/AI%20Technologies-Guide-blue?style=for-the-badge&logo=artificial-intelligence)
+
 
 **A comprehensive guide to Artificial Intelligence, Neural Networks, and Large Language Models**
 
