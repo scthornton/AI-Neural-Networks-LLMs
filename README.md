@@ -7,6 +7,10 @@
 
 **A comprehensive guide to Artificial Intelligence, Neural Networks, and Large Language Models**
 
+[![Made With Love](https://img.shields.io/badge/Made%20with-❤-red.svg)](https://github.com/) 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat)](https://github.com/)
+
 </div>
 
 ## 📚 Table of Contents
@@ -407,7 +411,7 @@ The most exciting developments may lie not in the technologies themselves, but i
 
 <div align="center">
   
-[![Star this repo](https://img.shields.io/github/stars/scthornton/ai-technologies-guide?style=social)](https://github.com/scthornton/ai-technologies-guide)
-
+[![Star this repo](https://img.shields.io/github/stars/yourusername/ai-technologies-guide?style=social)](https://github.com/yourusername/ai-technologies-guide)
+[![Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
 
 </div>
