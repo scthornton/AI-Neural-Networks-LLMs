@@ -371,11 +371,6 @@ Several trends are shaping the future of these technologies:
 
 ### Challenges Ahead
 
-<div align="center">
-  
-![Challenges](https://img.shields.io/badge/Challenges-Technical%20%7C%20Ethical%20%7C%20Environmental-orange?style=for-the-badge)
-
-</div>
 
 Despite remarkable progress, significant challenges remain:
 
